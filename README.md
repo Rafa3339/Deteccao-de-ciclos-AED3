@@ -12,7 +12,7 @@
   </li>
   <li><strong>Estudo e Definição da Detecção de Ciclos</strong>
     <ol>
-      <liLevantamento de algoritmos existentes para detecção de ciclos</li>
+      <li>Levantamento de algoritmos existentes para detecção de ciclos</li>
       <li>Avaliação das alternativas considerando tipo de grafo, complexidade e aplicabilidade</li>
       <li>Escolha do algoritmo mais apropriado</li>
       <li>Implementação/adaptação do algoritmo selecionado</li>
