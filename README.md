@@ -65,3 +65,9 @@
     </tr>
   </tbody>
 </table>
+<h2>Resultados Obtidos:</h2>
+<h3>Dia 1</h3>
+<h4>Definição incial algoritmo detecção: Uso do algoritmo DFS with backtracking</h4>
+<p>Motivos: Implemetação mais simples, amplamente utilizado para este fim, aplicavel para gráfos direcionados e não-direcionados</p>
+<h4>Escolha de alternativas para a geração de gráfos</h4>
+<p>Possibilidades: QuickGraph, biblioteca C# para estruturas de dados de grafos e algoritmos relacionados, com algoritmos prontos para geração de grafos aleatórios, busca em largura e profundidade. Outra alternativa seria criar o próprio algoritmo gerador de gráfos, pois permite uma maior flexibilidade, controle e personalização</p>
